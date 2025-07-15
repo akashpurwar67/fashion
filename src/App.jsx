@@ -7,37 +7,37 @@ function App() {
 
   const products = [
     {
-      name: "Premium T-Shirts",
+      name: "Premium kurta",
       description: "100% organic cotton with custom prints",
       image: "WhatsApp Image 2025-06-18 at 5.18.10 PM.jpeg",
       
     },
     {
-      name: "Designer Hoodies",
+      name: "Designer kurta",
       description: "Cozy winter collection with unique designs",
       image: "WhatsApp Image 2025-06-18 at 5.18.35 PM.jpeg",
       
     },
     {
-      name: "Casual Jeans",
+      name: "Casual kurta",
       description: "Comfortable and stylish denim collection",
       image: "WhatsApp Image 2025-06-18 at 5.18.57 PM.jpeg",
      
     },
     {
-      name: "Summer Shirts",
+      name: "Summer kurta",
       description: "Lightweight and breathable for hot days",
       image: "WhatsApp Image 2025-06-18 at 5.19.31 PM.jpeg",
       
     },
     {
-      name: "Classic Jackets",
+      name: "Classic Kurta",
       description: "Timeless outerwear for any occasion",
       image: "WhatsApp Image 2025-06-18 at 5.20.46 PM.jpeg",
       
     },
     {
-      name: "Athletic Wear",
+      name: "Athletic Kurta",
       description: "Performance clothing for active lifestyles",
       image: "WhatsApp Image 2025-06-18 at 5.21.49 PM.jpeg",
       
