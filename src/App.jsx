@@ -2,8 +2,8 @@ import { FaWhatsapp, FaInstagram, FaTshirt, FaSnowflake, FaFire, FaLeaf } from '
 import { GiClothes, GiRunningShoe } from 'react-icons/gi';
 
 function App() {
-  const whatsappNumber = 'YOUR_WHATSAPP_NUMBER'; // Replace with your number
-  const instagramHandle = 'YOUR_INSTAGRAM_HANDLE'; // Replace with your handle
+  const whatsappNumber = '7081674245'; // Replace with your number
+  const instagramHandle = 'https://www.instagram.com/_akka.81'; // Replace with your handle
 
   const products = [
     {
