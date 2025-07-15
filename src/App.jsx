@@ -3,7 +3,7 @@ import { GiClothes, GiRunningShoe } from 'react-icons/gi';
 
 function App() {
   const whatsappNumber = '7081674245'; // Replace with your number
-  const instagramHandle = 'https://www.instagram.com/_akka.81'; // Replace with your handle
+  const instagramHandle = '_akka.81'; // Replace with your handle
 
   const products = [
     {
