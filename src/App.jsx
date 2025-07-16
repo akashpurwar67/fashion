@@ -1,37 +1,37 @@
 import { FaWhatsapp, FaInstagram, FaMapMarkerAlt, FaLeaf } from 'react-icons/fa';
 
 function App() {
-  const whatsappNumber = '7081674245'; // Replace with your number
-  const instagramHandle = '_akka.81'; // Replace with your handle
+  const whatsappNumber = '7310041791'; // Replace with your number
+  const instagramHandle = 'SOCIALSELLING_CLOTH'; // Replace with your handle
 
   const products = [
     {
-      name: "Premium Kurta",
+      name: "Black & white Kurta suits set",
       description: "100% organic cotton with custom prints",
       image: "WhatsApp Image 2025-06-18 at 5.18.10 PM.jpeg",
     },
     {
-      name: "Designer Kurta",
+      name: "Juniper women fit and hare yellow gown",
       description: "Cozy winter collection with unique designs",
       image: "WhatsApp Image 2025-06-18 at 5.18.35 PM.jpeg",
     },
     {
-      name: "Casual Kurta",
+      name: "White embroi Crop top & Pants set",
       description: "Comfortable and stylish denim collection",
       image: "WhatsApp Image 2025-06-18 at 5.18.57 PM.jpeg",
     },
     {
-      name: "Summer Kurta",
+      name: "Gulmohar pink printed cotton gown with organza dupatta",
       description: "Lightweight and breathable for hot days",
       image: "WhatsApp Image 2025-06-18 at 5.19.31 PM.jpeg",
     },
     {
-      name: "Classic Kurta",
+      name: "Women pure cotton kurta pant dupatta set",
       description: "Timeless outerwear for any occasion",
       image: "WhatsApp Image 2025-06-18 at 5.20.46 PM.jpeg",
     },
     {
-      name: "Athletic Kurta",
+      name: "Indo western top and pant set",
       description: "Performance clothing for active lifestyles",
       image: "WhatsApp Image 2025-06-18 at 5.21.49 PM.jpeg",
     }
