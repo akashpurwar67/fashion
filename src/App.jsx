@@ -5,37 +5,37 @@ function App() {
   const instagramHandle = 'SOCIALSELLING_CLOTH'; // Replace with your handle
 
   const products = [
-    {
-      name: "Black & white Kurta suits set",
-      description: "100% organic cotton with custom prints",
-      image: "WhatsApp Image 2025-06-18 at 5.18.10 PM.jpeg",
-    },
-    {
-      name: "Juniper women fit and hare yellow gown",
-      description: "Cozy winter collection with unique designs",
-      image: "WhatsApp Image 2025-06-18 at 5.18.35 PM.jpeg",
-    },
-    {
-      name: "White embroi Crop top & Pants set",
-      description: "Comfortable and stylish denim collection",
-      image: "WhatsApp Image 2025-06-18 at 5.18.57 PM.jpeg",
-    },
-    {
-      name: "Gulmohar pink printed cotton gown with organza dupatta",
-      description: "Lightweight and breathable for hot days",
-      image: "WhatsApp Image 2025-06-18 at 5.19.31 PM.jpeg",
-    },
-    {
-      name: "Women pure cotton kurta pant dupatta set",
-      description: "Timeless outerwear for any occasion",
-      image: "WhatsApp Image 2025-06-18 at 5.20.46 PM.jpeg",
-    },
-    {
-      name: "Indo western top and pant set",
-      description: "Performance clothing for active lifestyles",
-      image: "WhatsApp Image 2025-06-18 at 5.21.49 PM.jpeg",
-    }
-  ];
+  {
+    name: "Black & White Kurta Suit Set",
+    description: "100% organic cotton with custom prints",
+    image: "WhatsApp Image 2025-06-18 at 5.18.10 PM.jpeg",
+  },
+  {
+    name: "Juniper Women's Fit and Flare Yellow Gown",
+    description: "Cozy winter collection with unique designs",
+    image: "WhatsApp Image 2025-06-18 at 5.18.35 PM.jpeg",
+  },
+  {
+    name: "White Embroidered Crop Top & Pants Set",
+    description: "Comfortable and stylish collection",
+    image: "WhatsApp Image 2025-06-18 at 5.18.57 PM.jpeg",
+  },
+  {
+    name: "Gulmohar Pink Printed Cotton Gown with Organza Dupatta",
+    description: "Lightweight and breathable for hot days",
+    image: "WhatsApp Image 2025-06-18 at 5.19.31 PM.jpeg",
+  },
+  {
+    name: "Women's Pure Cotton Kurta Pant Dupatta Set",
+    description: "Timeless ethnic wear for any occasion",
+    image: "WhatsApp Image 2025-06-18 at 5.20.46 PM.jpeg",
+  },
+  {
+    name: "Indo-Western Top and Pant Set",
+    description: "Contemporary fusion wear for modern lifestyles",
+    image: "WhatsApp Image 2025-06-18 at 5.21.49 PM.jpeg",
+  }
+];
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 font-sans">
