@@ -45,7 +45,7 @@ function App() {
           backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')"
         }}></div>
         <div className="max-w-4xl mx-auto relative z-10">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 tracking-tight">Urban Threads</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 tracking-tight">Social Selling Cloth</h1>
           <p className="text-xl md:text-2xl mb-8 font-light opacity-90">Premium Ethnic Wear for the Modern Lifestyle</p>
           
           {/* Address */}
@@ -124,7 +124,7 @@ function App() {
                 </div>
               </div>
               <div className="md:w-1/2 p-12">
-                <h2 className="text-3xl font-bold mb-6 text-gray-900">About Urban Threads</h2>
+                <h2 className="text-3xl font-bold mb-6 text-gray-900">About Social Selling Cloth</h2>
                 <p className="text-gray-700 leading-relaxed mb-6">
                   We create premium ethnic wear that blends traditional craftsmanship with contemporary designs. 
                   Each piece in our collection is thoughtfully designed to offer comfort without compromising on style.
@@ -176,7 +176,7 @@ function App() {
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <div className="mb-6">
-            <h3 className="text-xl font-bold mb-2">Urban Threads</h3>
+            <h3 className="text-xl font-bold mb-2">Social Selling Cloth</h3>
             <p className="text-gray-400">Premium Ethnic Wear</p>
           </div>
           <div className="mb-6">
@@ -203,7 +203,7 @@ function App() {
               <FaInstagram className="text-2xl" />
             </a>
           </div>
-          <p className="text-gray-500 text-sm">© {new Date().getFullYear()} Urban Threads. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© {new Date().getFullYear()} Social Selling Cloth</p>
         </div>
       </footer>
     </div>
